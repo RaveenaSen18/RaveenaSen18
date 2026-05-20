@@ -9,7 +9,7 @@
 ## 🔗 Connect With Me
 - 📧 Email: raveenasen18@gmail.com  
 - 🌐 Portfolio: https://my-mern-portfolio-6bij.vercel.app  
-- 💼 LinkedIn: https://linkedin.com/in/raveena-senthilkumar-37123b322  
+- 💼 LinkedIn: www.linkedin.com/in/raveenasen18  
 - 💻 GitHub: https://github.com/RaveenaSen18  
 - 🧠 LeetCode: https://leetcode.com/u/23ADR140/  
 
